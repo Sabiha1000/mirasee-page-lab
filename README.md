@@ -1,4 +1,4 @@
-# Mirasee Page Builder
+# Mirasee Page Lab
 
 A copy-to-code agent for the Mirasee design team. Paste your page copy → pick a template → get paste-ready code blocks for Ontraport Pages, plus a live preview and a step-by-step build checklist.
 
